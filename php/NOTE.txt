@@ -1,0 +1,1 @@
+You only need to run file CreateDB.php
